@@ -2,10 +2,6 @@
 
 A new Flutter project.
 
-<img align="left" src="https://github.com/NeelManiya25/pr_media_booster/assets/131368162/637a05fb-3718-4bf2-8a0a-22b02967d64a" width="220px">
-<img align="left" src="https://github.com/NeelManiya25/pr_media_booster/assets/131368162/c5318a98-e826-42ca-9bb8-5badd269a990" width="220px">
-<img  src="https://github.com/NeelManiya25/pr_media_booster/assets/131368162/b4755822-577b-4bbc-baa3-5574074609e2" width="220px">
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
